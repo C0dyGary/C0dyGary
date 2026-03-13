@@ -6,7 +6,7 @@
 
 # Hey, I'm Gary
 
-Ingeniero informatico desarollo de Backend, devOps, experto en Golang 
+Ingeniero informatico desarollo de Backend, devOps, pricipal lenguaje Golang 
 
 ## GitHub Stats
 
